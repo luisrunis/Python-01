@@ -10,7 +10,7 @@ linea
 
 #VARIABLES
 nombre = 'luis'
-apellido = 'ruiz'
+apellido = 'runiz'
 edad = 30
 
 print(nombre)
