@@ -32,8 +32,6 @@ print(f'y: {y}')
 print(f'z: {z}')
 
 
-print('=' * 20)
-#************************
 
 print('Variable de alcance global')
 
@@ -45,8 +43,6 @@ def myfunc():
 myfunc()
 
 
-print('=' * 20)
-#************************
 
 print('Variable de alcance local')
 
@@ -62,10 +58,8 @@ myfunc()
 print("Python is " + x)
 
 
-print('=' * 20)
-#************************
 
-print('Palabra clace global')
+print('Palabra clave global')
 #*La palabra clave global hace que la variable dentro una función sea global.
 
 def myfunc():
