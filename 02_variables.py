@@ -1,18 +1,10 @@
-#Comentario de una sola linea
 
-
-'''
-Comentario 
-de 
-varias 
-linea
-'''
-
-#*****************
 #*VARIABLES
+
 nombre = 'luis'
 apellido = 'runiz'
 edad = 30
+
 
 print('nombre:' + nombre)
 print('apellido:' + apellido)
